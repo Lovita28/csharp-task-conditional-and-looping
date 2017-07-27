@@ -1,0 +1,6 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Bigsmall\Bigsmall\bin\Debug\Bigsmall.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Bigsmall\Bigsmall\bin\Debug\Bigsmall.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Bigsmall\Bigsmall\bin\Debug\Bigsmall.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Bigsmall\Bigsmall\obj\Debug\Bigsmall.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Bigsmall\Bigsmall\obj\Debug\Bigsmall.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Bigsmall\Bigsmall\obj\Debug\Bigsmall.csprojResolveAssemblyReference.cache

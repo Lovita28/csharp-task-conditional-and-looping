@@ -1,0 +1,5 @@
+C:\Users\Lovita\documents\visual studio 2015\Projects\Bigsmall\Average\bin\Debug\Average.exe.config
+C:\Users\Lovita\documents\visual studio 2015\Projects\Bigsmall\Average\bin\Debug\Average.exe
+C:\Users\Lovita\documents\visual studio 2015\Projects\Bigsmall\Average\bin\Debug\Average.pdb
+C:\Users\Lovita\documents\visual studio 2015\Projects\Bigsmall\Average\obj\Debug\Average.exe
+C:\Users\Lovita\documents\visual studio 2015\Projects\Bigsmall\Average\obj\Debug\Average.pdb

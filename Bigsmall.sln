@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bigsmall", "Bigsmall\Bigsmall.csproj", "{33956626-7DCC-45B3-A3E6-7D7CCCC2D47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average", "Average\Average.csproj", "{499FDF0E-BC22-4B65-AC1F-9DC12385B9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33956626-7DCC-45B3-A3E6-7D7CCCC2D47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33956626-7DCC-45B3-A3E6-7D7CCCC2D47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33956626-7DCC-45B3-A3E6-7D7CCCC2D47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33956626-7DCC-45B3-A3E6-7D7CCCC2D47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499FDF0E-BC22-4B65-AC1F-9DC12385B9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499FDF0E-BC22-4B65-AC1F-9DC12385B9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499FDF0E-BC22-4B65-AC1F-9DC12385B9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499FDF0E-BC22-4B65-AC1F-9DC12385B9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
